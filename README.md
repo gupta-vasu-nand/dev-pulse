@@ -1,5 +1,3 @@
-I'll add comprehensive test commands to the README. Here's the updated README with the test commands section:
-
 # Dev-Pulse
 
 A powerful CLI tool that analyzes GitHub developer activity across repositories, providing insights into commits, pull requests, and code reviews.
